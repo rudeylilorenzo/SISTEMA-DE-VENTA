@@ -1,0 +1,6 @@
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\bin\Debug\Conventas.exe.config
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\bin\Debug\Conventas.exe
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\bin\Debug\Conventas.pdb
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\obj\Debug\Conventas.csprojResolveAssemblyReference.cache
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\obj\Debug\Conventas.exe
+c:\users\wterrero\documents\visual studio 2015\Projects\Conventas\Conventas\obj\Debug\Conventas.pdb
